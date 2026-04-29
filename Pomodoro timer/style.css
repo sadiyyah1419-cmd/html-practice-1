@@ -1,0 +1,10 @@
+h1{
+    font-family:fantasy;
+}
+.options{
+    position: relative;
+}
+.timer{
+    position: relative;
+    font-size: 100px;
+}
