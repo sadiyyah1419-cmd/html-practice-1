@@ -1,9 +1,34 @@
 h1{
-    font-family:Papyrus, fantasy;
+    font-family:Lucida handwriting, cursive;
 }
 .options{
+    padding-top: 150px;
     position: relative;
 }
+#study{
+    font-family:'Space Grotesk', sans-serif;
+    font-size: 30px;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#short_break{
+    font-family:'Space Grotesk', sans-serif;
+    font-size: 30px;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#long_break{
+    font-family:'Space Grotesk', sans-serif;
+    font-size: 30px;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 .timer{
     position: relative;
     font-size: 100px;
